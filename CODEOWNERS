@@ -1,0 +1,9 @@
+# Anyone on the team can add or edit their own profile via PR; maintainers own
+# the build script, workflow, and template.
+# Team names are placeholders until a human org admin creates the teams
+# and supplies real GitHub handles (see the org GOVERNANCE.md).
+
+*                @RAI-Institute/fellows
+/scripts/        @RAI-Institute/maintainers
+/.github/        @RAI-Institute/maintainers
+/people/TEMPLATE.md  @RAI-Institute/maintainers
