@@ -1,5 +1,8 @@
 # RAI-Institute — Team directory
 
+[![Directory](https://img.shields.io/badge/directory-live-2ea44f)](https://rai-institute.github.io/team/)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-2ea44f)](./LICENSE)
+
 A self-service directory of the RAI-Institute team. Every person adds **one file** and gets:
 
 - a **stable short link** — `https://rai-institute.github.io/team/u/<handle>/`
